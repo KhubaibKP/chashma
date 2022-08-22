@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713875491081",
+    "project_id": "chashma-ghar",
+    "storage_bucket": "chashma-ghar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713875491081:android:a184f51a817ee80a3babd8",
+        "android_client_info": {
+          "package_name": "com.khubaib.chashma_ghar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713875491081-7cje099490rmh5cn7cu0ggecvsmkt1pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0n0wA5dejxZjOHASeqQ7y33D5TqIVW1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713875491081-7cje099490rmh5cn7cu0ggecvsmkt1pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

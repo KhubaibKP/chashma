@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">713875491081-7cje099490rmh5cn7cu0ggecvsmkt1pv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">713875491081</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0n0wA5dejxZjOHASeqQ7y33D5TqIVW1s</string>
+    <string name="google_app_id" translatable="false">1:713875491081:android:a184f51a817ee80a3babd8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0n0wA5dejxZjOHASeqQ7y33D5TqIVW1s</string>
+    <string name="google_storage_bucket" translatable="false">chashma-ghar.appspot.com</string>
+    <string name="project_id" translatable="false">chashma-ghar</string>
+</resources>
